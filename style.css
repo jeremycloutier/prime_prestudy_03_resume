@@ -1,0 +1,68 @@
+button {
+  position: absolute;
+  margin: auto;
+  top: 200px;
+  right: 0;
+  bottom: auto;
+  left: 0;
+}
+.jumbotron {
+  margin-bottom: 0px;
+  padding-right: 10px;
+  padding-left: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border-bottom: 3px solid black;
+  background: url("teal_texture.png");
+}
+.jumbotron .container {
+	font-size: 14px;
+	font-family: Arial, sans-serif;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+}
+h3 {
+	text-decoration: underline;
+}
+.jumbotron .pull-left {
+	padding-top: 95px;
+}
+
+.jumbotron .pull-right {
+	padding-top: 95px;
+}
+
+.jumbotron .thumbnail {
+	margin-bottom: 5px;
+}
+.profile {
+	font-family: Arial, sans-serif;
+	font-style: normal;
+    padding-left: 20px;
+    border-bottom: 3px solid black;
+}
+.profile p {
+	font-style: italic;
+}
+.experience {
+	font-family: Arial, sans-serif;
+	padding-left: 20px;
+	border-bottom: 3px solid black;
+}
+.education {
+	font-family: Arial, sans-serif;
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+body {
+	background: url("teal_texture.png");
+	color: black;
+	border: solid 5px black;
+	border-radius: 10px;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
